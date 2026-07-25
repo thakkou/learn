@@ -14,6 +14,7 @@
   - Performance (record actions)
   - Paint Flashing option
 * event loop
+
 check code + bonuses
 
 ## real-time-forum
@@ -26,8 +27,9 @@ check code + bonuses
 * uuid
 * go routines + channels
 * js event list, mainly the Keyboard events and the Focus events
+* shared workers
+
 check code
-shared workers
 
 ## graphql
 
@@ -37,6 +39,7 @@ shared workers
 * basic authentication + base64 (identifier + pawword)
 * [jwt](https://www.jwt.io/introduction#what-is-json-web-token) (bearer authentication)
 * browser storage types
+* hosting services: netlify, vercel, github pages...
 
 check code
 
@@ -48,12 +51,14 @@ check code
 * frontend & backend definitions
 * since HTTP is a stateless protocol, we can use several ways to overcome and authenticate a client/user.
 * image handlng in professional projects.
-* caddy server (written in go)
-* the database library SQLite.
-* erd
-* database migrations
-* docker compose
+* [caddy](https://caddyserver.com/docs/) server (written in go)
+* the database library [SQLite](https://www.sqlite.org/index.html).
+* [erd](https://www.smartdraw.com/entity-relationship-diagram/)
+* database migrations: e.g. [golang-migrate](https://github.com/golang-migrate/migrate)
+* docker compose: [setting up docker](https://docs.docker.com/get-started/)
 * authentication: sessions & cookies
 * basics of encryption
+* Next / NextAuth
+* [sessions](https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html#session-management-waf-protections) and [cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
 
 check code (repository queries folder)
