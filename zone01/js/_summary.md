@@ -62,3 +62,14 @@ check code
 * [sessions](https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html#session-management-waf-protections) and [cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
 
 check code (repository queries folder)
+
+## mini-framework
+
+* JS framework features:
+  - Abstracting the DOM
+  - Routing System
+  - State Management
+  - Event Handling
+* framework documentation
+
+the user has to be presented to a folder structure that allows him to run the app from the root of that folder structure. ?!
