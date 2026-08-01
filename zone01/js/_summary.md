@@ -79,5 +79,6 @@ check code (repository queries folder)
   - have to take into account the events, children and attributes of each element of the DOM.
 * Routing System (refers to the synchronization of the state of the app with the URL)
   - a simple way to change the URL through actions of the user that will also change the state.
-
-the user has to be presented to a folder structure that allows him to run the app from the root of that folder structure. ?!
+* State Management (the outcome of all the actions that the user has taken since the page loaded)
+* Event Handling
+* [todoMVC](https://todomvc.com/examples/react/dist/) app examples with different frameworks.
