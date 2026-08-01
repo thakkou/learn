@@ -71,5 +71,13 @@ check code (repository queries folder)
   - State Management
   - Event Handling
 * framework documentation
+* Abstracting the DOM (The DOM can be seen as a big object -> how different frameworks handle that ?!), for example:
+  - [Virtual DOM](https://bitsofco.de/understanding-the-virtual-dom/) : to compare with the real DOM and change just what is needed.
+  - [Data Binding](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/data/?redirectedfrom=MSDN) : binds together two data sources and keeps them synchronized
+  - [Templating](https://medium.com/@BuildMySite1/javascript-templating-what-is-templating-7ff49d97db6b) : refers to the client side data binding method implemented with the JavaScript language.
+  - ...
+  - have to take into account the events, children and attributes of each element of the DOM.
+* Routing System (refers to the synchronization of the state of the app with the URL)
+  - a simple way to change the URL through actions of the user that will also change the state.
 
 the user has to be presented to a folder structure that allows him to run the app from the root of that folder structure. ?!
