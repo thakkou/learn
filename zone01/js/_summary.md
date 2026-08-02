@@ -65,6 +65,8 @@ check code (repository queries folder)
 
 ## mini-framework
 
+* a framework is different from a library. When you call a method from a library, you are in control. But with a framework, the control is inverted: the framework calls you.
+* [markdown](https://www.markdownguide.org/getting-started/)
 * JS framework features:
   - Abstracting the DOM
   - Routing System
